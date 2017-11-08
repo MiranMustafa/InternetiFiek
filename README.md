@@ -1,2 +1,0 @@
-# InternetiFiek
-Projekti Fiek
